@@ -1,0 +1,8 @@
+'convert_link-correct', (0, 70)
+'Link-correct', (512, 70)
+'every_other-correct', (1024, 70)
+'label_squarer-correct', (1536, 70)
+'cumulative_mul-correct', (2048, 70)
+'has_cycle-correct', (2560, 70)
+'has_cycle_constant-correct', (3072, 70)
+'reverse_other-correct', (3584, 70)
