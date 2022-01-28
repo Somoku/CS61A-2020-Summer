@@ -1,0 +1,7 @@
+'reverse_iter-correct', (0, 70)
+'reverse_recursive-correct', (512, 70)
+'distance-correct', (1024, 70)
+'closer_city-correct', (1536, 70)
+'check_abstraction-correct', (2048, 70)
+'List Indexing-correct', (2560, 70)
+'add_chars-correct', (3072, 70)
