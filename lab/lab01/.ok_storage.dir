@@ -1,0 +1,6 @@
+'Control-correct', (0, 70)
+'Veritasiness-correct', (512, 70)
+'debugging-quiz-correct', (1024, 70)
+'falling-correct', (1536, 70)
+'sum_digits-correct', (2048, 70)
+'double_eights-correct', (2560, 70)
