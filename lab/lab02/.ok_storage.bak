@@ -1,0 +1,7 @@
+'Lambda the Free-correct', (0, 70)
+'Higher Order Functions-correct', (512, 70)
+'lambda_curry2-correct', (1024, 70)
+'count_cond-correct', (1536, 70)
+'both_paths-correct', (2048, 70)
+'composite_identity-correct', (2560, 70)
+'cycle-correct', (3072, 70)
